@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container1{
+    height: 76vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.navbar{
+    background-color: white;
+    color: red;
+}
