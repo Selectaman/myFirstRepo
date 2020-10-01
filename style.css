@@ -1,0 +1,29 @@
+*{  padding: 1%;
+    text-align: center;
+}
+
+body{
+    background-image: url("bg.jpg");
+}
+
+h1{font-size: 200%;}
+p{font-size: 150%;}
+input{border:none;}
+input:focus, input:hover{
+    background-color:rgb(240, 192, 131);
+    border: none;
+}
+label{
+    display: block;
+font-size:150%;
+}
+
+input[type="submit"]{background-color: rgb(230, 135, 10);
+    font-size: 120%;
+border-radius: 10px;
+border: none;
+color: bisque;}
+
+input[type="submit"]:hover{border:3px solid rgb(230, 135, 10);
+background-color: bisque;
+color: black;}
